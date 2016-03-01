@@ -4,3 +4,6 @@ When you initialize a git repository there is no revision history, no commits, a
 
 -------
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is a temporary container for all the files that will be changed in the repository upon commit.
