@@ -7,3 +7,15 @@ When you initialize a git repository there is no revision history, no commits, a
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The staging area is a temporary container for all the files that will be changed in the repository upon commit.
+
+-------
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You can keep adding files to the stagging area without commiting if all those changes should go logically together. Then we can commit all then in a single commit.
+
+-------
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When you want to develop a specific feature, or explore some possibilities without affecting the main development of your project, which will be kept in the master branch.
