@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When you initialize a git repository there is no revision history, no commits, and thus git log returns a fatal error. You need to create the initial commit.
+
+-------
+
