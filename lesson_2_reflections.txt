@@ -33,3 +33,10 @@ What is the result of merging two branches together? Why do we represent it in t
 The result of merging two branches is one branch that contains the commits of both, and with the code resulting from merging line-wise the modifications added by both, taking as reference their common parent commit. It is represented by a commit that has two parents, the latests commits of each brach.
 
 -------
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+PROS: easy, removes work load from developer
+CONS: not logical code, maybe even not compiling
+
+-------
