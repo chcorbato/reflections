@@ -4,3 +4,8 @@ When you are working on a project with other people, or you work from different 
 
 --------------
 
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+Because there maybe changes in the remote that I do not want in my local repository.
+
+--------------
