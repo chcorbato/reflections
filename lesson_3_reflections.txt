@@ -21,3 +21,10 @@ What is the benefit of having a copy of the last known state of the remote store
 You can continue working offline with the repository.
 
 --------------
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Without GitHub but only with git the main problem is not having the option of pull request. Collaborating by working in different branches would be the same. However, merging to other people´s branches would require additional communication outsid of git.
+Working without git is easier if people is working in completely different parts of a project, and the interaction only happens at a few points in time. However, as soon as you need to use parts of the code other people is still working on, and it will be done several times, git eases the collaboration and keeping track of all the changes.
+
+--------------
