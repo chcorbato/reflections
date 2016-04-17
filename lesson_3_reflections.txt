@@ -31,6 +31,7 @@ Working without git is easier if people is working in completely different parts
 
 When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
 
-You want to make changes in a separate branch when you are contributing to the project of someone else, so before modifying master you want other people to take a look at what you changed. Working this way is a bit more complicated, but it is safer since people can try your code before any changes are pushed into master. Making changes in master is easier.
+You want to make changes in a separate branch when you are contributing to the project of someone else, so before modifying master you want other people to take a look at what you changed. Working this way is a bit more complicated, but it is safer since people can try your code before any changes are pushed into master. Also, this way it is easier to keep up-date with changes in master in the original repository, and merging your changes when you are ready.
+Making changes in master is easier.
 
 --------------
