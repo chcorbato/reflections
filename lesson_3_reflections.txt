@@ -28,3 +28,9 @@ Without GitHub but only with git the main problem is not having the option of pu
 Working without git is easier if people is working in completely different parts of a project, and the interaction only happens at a few points in time. However, as soon as you need to use parts of the code other people is still working on, and it will be done several times, git eases the collaboration and keeping track of all the changes.
 
 --------------
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+You want to make changes in a separate branch when you are contributing to the project of someone else, so before modifying master you want other people to take a look at what you changed. Working this way is a bit more complicated, but it is safer since people can try your code before any changes are pushed into master. Making changes in master is easier.
+
+--------------
